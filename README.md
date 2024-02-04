@@ -1,6 +1,5 @@
 # Laboratory exercises for Selected Topics in Software Development 1 @ FER
-also known as Čupićeva Java 1
-3. year, winter semester
+3. year, winter semester, (also known as Čupićeva Java 1)
 
 ## 1. lab
 * developing custom collections from scratch
